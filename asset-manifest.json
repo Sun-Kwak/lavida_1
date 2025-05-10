@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lavida_1/static/css/main.eb533ca2.css",
-    "main.js": "/lavida_1/static/js/main.fb520774.js",
+    "main.js": "/lavida_1/static/js/main.e4caf0ec.js",
     "static/js/453.230283c8.chunk.js": "/lavida_1/static/js/453.230283c8.chunk.js",
     "index.html": "/lavida_1/index.html",
     "main.eb533ca2.css.map": "/lavida_1/static/css/main.eb533ca2.css.map",
-    "main.fb520774.js.map": "/lavida_1/static/js/main.fb520774.js.map",
+    "main.e4caf0ec.js.map": "/lavida_1/static/js/main.e4caf0ec.js.map",
     "453.230283c8.chunk.js.map": "/lavida_1/static/js/453.230283c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb533ca2.css",
-    "static/js/main.fb520774.js"
+    "static/js/main.e4caf0ec.js"
   ]
 }
